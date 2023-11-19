@@ -3,4 +3,8 @@ Discordでメンションされるとランダム選ばれたポケモンの日�
 Pokemon APIを使用しています．
 
 使用例(実際にはモザイクはありません)
-![sample image](sample.png)
+
+
+<div align="center">
+  <img src="sample.png" alt="sample image">
+</div>
